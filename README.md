@@ -9,33 +9,6 @@ This repository serves as a centralized collection of my Java Full Stack learnin
 
 Each module is organized into dedicated folders to maintain a clean structure, simplify navigation, and track my progress throughout the learning journey.
 
-## Repository Structure
-
-```text
-Java-Full-Stack/
-│
-├── Module 1/
-│   └── Inventory Management System/
-│       ├── Category.java
-│       ├── FileManager.java
-│       ├── InventoryManager.java
-│       ├── Main.java
-│       ├── Product.java
-│       ├── products.dat
-│       └── README.md
-│
-├── Module 2/
-│   └── ...
-│
-├── Module 3/
-│   └── ...
-│
-├── .gitignore
-└── README.md
-```
-
-*The structure above illustrates the repository organization. Add or update module folders according to the actual contents of the repository.*
-
 ## Technologies
 
 - Java
